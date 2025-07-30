@@ -1,7 +1,7 @@
 import React from "react";
-import Github from "./assets/Github.png"
-import Linkedin from "./assets/Linkedin.png"
-import Instagram from "./assets/Instagram.png"
+import Github from "./assets/github.png"
+import Linkedin from "./assets/linkedin.png"
+import Instagram from "./assets/instagram.png"
 
 
 
