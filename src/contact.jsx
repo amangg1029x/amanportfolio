@@ -6,7 +6,7 @@ const Contact = () => {
 
         <section id = "contact">
             <div className="overflow-hidden sm:mx-10 sm:p-10">
-                <p className="flex bg-gradient-to-r from-pink-600 to-white/20 w-max bg-clip-text text-transparent text-5xl px-10">Contact</p>
+                <p className="flex bg-gradient-to-r from-pink-600 to-white/20 w-max bg-clip-text text-transparent text-5xl px-10 justify-self-center">Contact</p>
                 <br></br>
                 <div className="flex justify-center p-5 border border-white rounded-2xl bg-slate-950 mx-15">
                     <form className="overflow-hidden flex flex-col gap-5">
