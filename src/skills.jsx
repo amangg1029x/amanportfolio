@@ -2,12 +2,12 @@ import React from "react";
 
 import SkillsCard from "./components/SkillsCard";
 
-import Git from "./assets/Git.svg"
+import Git from "./assets/git.svg"
 import Java from "./assets/Java.png"
-import MySQL from "./assets/MySQL.png"
-import Python from "./assets/Python.png"
-import Reacts from "./assets/React.svg"
-import Tailwind from "./assets/Tailwind.png"
+import MySQL from "./assets/mysql.png"
+import Python from "./assets/python.png"
+import Reacts from "./assets/react.svg"
+import Tailwind from "./assets/tailwind.png"
 
 
 const Skills = () => {
