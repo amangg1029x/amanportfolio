@@ -1,5 +1,5 @@
 import ProjectsCard from "./components/ProjectsCard";
-import WorkingImg from "./assets/WorkingImg.png"
+import WorkingImg from "./assets/workingimg.png"
 
 
 const Projects = () => {
